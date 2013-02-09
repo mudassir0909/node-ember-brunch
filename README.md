@@ -18,7 +18,7 @@ inspired from this [post](https://github.com/brunch/brunch/issues/265)
 ____________________________________________________
 <pre>
 $ brunch new your_app_name -s git://github.com/unspecified/node-ember-brunch.git
-$ brunch watch --server
+$ brunch watch --server # Also runs your node server defined in server.coffee file :)
 </pre>
 
 fire in the browser http://localhost:8080 to see the webpage in action !
