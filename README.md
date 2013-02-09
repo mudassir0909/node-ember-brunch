@@ -1,5 +1,5 @@
 _______________________________________
-All the credit goes to the creators of the respective technologies/frameworks, I just tweaked in a bit to suit my needs which may be helpful to some of you, If you find anything wrong or you think you can improve this, feel free to create a new branch and generate a pull request
+Initially inspired from [brunch-ember](https://github.com/icholy/ember-brunch), I just tweaked in a bit to suit to my needs which may be helpful to some of you, If you find anything wrong or you think you can improve this, feel free to create a new branch and generate a pull request
 ________________________________________
 
 Brunch Skeleton with following support
