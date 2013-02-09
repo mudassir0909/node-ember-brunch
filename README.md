@@ -1,3 +1,4 @@
+
 Brunch Skeleton with following support
 
 <ul>
@@ -9,7 +10,8 @@ Brunch Skeleton with following support
   <li> ExpressJS (NodeJS Framework)
 </ul>
 ____________________________________________________
-server code goes into the file <code>server.coffee</code>, code inspired from this [post](https://github.com/brunch/brunch/issues/265)
+server code goes into the file <code>server.coffee</code>,
+inspired from this [post](https://github.com/brunch/brunch/issues/265)
 ____________________________________________________
 <pre>
 $ npm install
@@ -18,8 +20,8 @@ $ brunch watch --server
 
 fire in the browser http://localhost:8080 to see the webpage in action !
 
-For More Info: 
-<ul>  
+Official Websites
+<ul>
   <li>[Brunch](http://brunch.io/)
   <li>[Express](http://expressjs.com/)
   <li>[Ember](http://emberjs.com/)
@@ -27,4 +29,3 @@ For More Info:
   <li>[Twitter Bootstrap](http://twitter.github.com/bootstrap/)
   <li>[Font Awesome](http://fortawesome.github.com/Font-Awesome/)
   <li>[SASS](http://sass-lang.com/)
-</ul>
