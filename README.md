@@ -1,3 +1,6 @@
+_______________________________________
+All the credit goes to the creators of the respective technologies/frameworks, I just tweaked in a bit to suit my needs which may be helpful to some of you, If you find anything wrong or you think you can improve this, feel free to create a new branch and generate a pull request
+________________________________________
 
 Brunch Skeleton with following support
 
@@ -14,7 +17,7 @@ server code goes into the file <code>server.coffee</code>,
 inspired from this [post](https://github.com/brunch/brunch/issues/265)
 ____________________________________________________
 <pre>
-$ npm install
+$ brunch new your_app_name -s git://github.com/unspecified/node-ember-brunch.git
 $ brunch watch --server
 </pre>
 
