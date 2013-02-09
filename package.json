@@ -21,8 +21,7 @@
     "sass-brunch": "1.5.0",
     "uglify-js-brunch": ">= 1.0 < 1.5",
     "clean-css-brunch": ">= 1.0 < 1.5",
-    "ember-handlebars-brunch": "git://github.com/icholy/ember-handlebars-brunch.git",
-    "node-static": "0.6.7"
+    "ember-handlebars-brunch": "git://github.com/icholy/ember-handlebars-brunch.git"
   },
   "devDependencies": {
     "mocha": "0.14.0",
